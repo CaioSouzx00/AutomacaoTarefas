@@ -23,5 +23,6 @@ pip install -r requirements.txt
 Execute o script principal:
 python main.py
 
-📌 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+Sinta-se à vontade para contribuir com melhorias e novas funcionalidades.
+Basta abrir um pull request ou relatar problemas na aba Issues.
+Desenvolvido por Caio Souza 🚀
